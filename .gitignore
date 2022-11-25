@@ -1,2 +1,7 @@
 practica
 practica.pub
+*.iml
+*.xml
+*.pb
+sonarlint/
+*.pb
